@@ -82,3 +82,9 @@ footer {
     font-size: 18px; /* Adjust the size if needed */
     list-style-type: none; /* Removes default list bullets */
 }
+a{
+    color: blue;
+}
+.details{
+    color: #f4f4f4;
+}
